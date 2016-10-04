@@ -6,5 +6,5 @@ This repository contains documents related to my proyect working at Cátedra UAM
 I will upload some of these documents (code) when I legally can do it, but for now:
 
 + [Presentation in english](https://github.com/DavidTorresP5/moocDropout/blob/master/TFT__English_.pdf)
-+ Paper
-+ Code
++ [Paper (spanish)](https://github.com/DavidTorresP5/moocDropout/blob/master/TFT_MOOC.pdf)
++ [Some code](https://github.com/DavidTorresP5/moocDropout/blob/master/machineLearningFunctions.py)
